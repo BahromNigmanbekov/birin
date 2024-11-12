@@ -1,0 +1,58 @@
+.pic{
+    background-color: lightskyblue;
+    color: blueviolet;
+    border: 2px solid red;
+    border-radius: 30px;
+    text-align: center;
+}
+i{
+    color: red;
+}
+.sarlovha{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+.javob{
+    color: green;
+}
+button{
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 24px;
+    width: 300px;
+}
+.feel{
+    background-color: green;
+}
+.long{
+    background-color: blue;
+    text-align: center;
+}
+.ular{
+    background-color: red;
+}
+.sem{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width:;
+}
+table{
+    width: 100%;
+    text-align: center;
+    color: white;
+    border-collapse: collapse;
+    border: solid white;
+}
+th, td{
+    border: 2px solid rgb(74, 70, 70);
+    padding: 12px 0;
+}
+.width{
+    width: 600px;
+    border: 2px solid rgb(136, 136, 136);
+}
